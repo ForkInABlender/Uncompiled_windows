@@ -23,6 +23,10 @@ In this case, the point is to run windows software on almost any system without 
   enough to load a binary library and use its functions without uncompiling and recompiling for each platform. Most of this
  is to make the windows kernel a little more python like. 
 
+My point being this:
+ * you should be able to uncompile all windows binaries using binary-ninja
+ * you should be able to put the windows libraries into a folder  
+
 https://docs.binary.ninja/dev/bnil-overview.html#summary
 https://kalkicode.com/c-to-golang-converter-online
 https://kalkicode.com/go-to-python-converter
