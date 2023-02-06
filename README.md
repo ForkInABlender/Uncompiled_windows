@@ -27,8 +27,8 @@ My point being this:
  * you should be able to uncompile all windows binaries using binary-ninja
  * you should be able to put the windows libraries into a folder  
 
-https://docs.binary.ninja/dev/bnil-overview.html#summary
-https://kalkicode.com/c-to-golang-converter-online
-https://kalkicode.com/go-to-python-converter
-https://chat.openai.com/
-https://www.javainuse.com/java2py
+<br><br>https://docs.binary.ninja/dev/bnil-overview.html#summary
+<br>https://kalkicode.com/c-to-golang-converter-online
+<br>https://kalkicode.com/go-to-python-converter
+<br>https://chat.openai.com/
+<br>https://www.javainuse.com/java2py
